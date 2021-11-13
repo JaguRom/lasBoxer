@@ -1,0 +1,180 @@
+@charset "UTF-8";
+
+/* Correcciones Extra */
+/* Navbar */
+.navbar-brand{
+color:#B8572C !important
+}
+#navbar-brand{
+color: #B8572C !important;
+}
+#theRealShoreline{
+color: #B8572C;
+}
+#theRealJaguRom{
+color: #B8572C; !important;
+font-family: math; !important;
+}
+#theRealPhotography {
+color: #B8572C; !important
+}
+#theRealPhotography :hover{
+text-decoration: underline !important;
+}
+#theRealJaguRomNavbar{
+font-family: math; !important;
+}
+#theRealAbout {
+font-family: Aleo; !important
+color: #B8572C;  !important
+}
+#theRealProjects{
+font-family: Aleo; !important
+color: #B8572C;  !important
+}
+#theRealContact{
+font-family: Aleo; !important;
+color: #B8572C;  !important;
+}
+#logoTranspMod{
+max-width: 5.5rem !important;
+}
+#buttonTest{
+color: black;
+font-weight: bold;
+background-color: #B8572C;
+font-weight: lighter;
+opacity: 0.8;
+border-radius: 50px;
+font-family: Aleo;
+max-height: 3rem;
+}
+#buttonTest:hover{
+background-color: transparent;
+color: white;
+font-weight: bold;
+}
+#firstID{
+text-decoration: none;
+}
+#firstID:hover {
+color: white !important;
+text-decoration: underline !important;
+}
+#submitText{
+color: cornsilk;
+font-size: 1.25rem;
+}
+#aboutText{
+color: cornsilk;
+font-size: 1.25rem;
+}
+
+/* Carrousel */
+.carousel-item {
+    /* position: initial; */
+    width: 85%;
+    height: 85%;
+
+}
+.sizeImages{
+}
+/* FontAwesomeIcons */
+.fa-concierge-bell{
+color: #B8572C;
+}
+
+.fa-user{
+color: #B8572C;
+}
+
+/* Logo */
+#logoTranspMod{;
+    height: 5rem !important;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #B8572C !important;
+    width: 3rem !important;
+    height: 3rem !important;
+}
+
+.quienesSomos{
+    color: #B8572C;
+    font-size: 1.25rem;
+}
+
+/* Main header title */
+#imagen.inicio{
+    size: 1440px, 1963px;
+    background: url(.././imagenes/inicio.jpg) no-repeat center center fixed;
+    background-size: 1440px, 1963px;
+    width: auto;
+    height: auto
+    ;
+  }
+  
+  /* Quienes Somos */
+  .header-text{
+      font-family: Montserrat;
+      Font-style: Medium;
+      font-size: 24px;
+      Line height: 29px;
+      Line height: 100%;
+      Align: Left,
+      Vertical align: Top,
+  }
+  
+  .header-title_underline{
+  text-decoration-line: underline;
+  text-decoration-color: #b8572c ;
+  }
+  
+  
+  
+  .header-title-text{
+      font-family: Harriet;
+      font-family: Bold;
+      font-family: 36px;
+      text-align: Left;
+      vertical-align: Top;
+  }
+  
+  /* Carrousel */
+  #carouselExampleFade {
+    width: 100%; 
+    height: 100%;
+    background-color: #000;
+    align-content: center;
+  }
+  
+  #carouselExampleControls{
+    width: 100%;
+    height: 60%;
+    background-color: #000;
+    align-content: center;
+  }
+  
+.black-text{
+    color: #000;
+} 
+.montserrat700{
+    font-family: Montserrat !important;
+    font-weight: 700 !important;
+}
+.montserrat600{
+    font-family: Montserrat !important;
+    font-weight: 600 !important;
+}
+.montserrat500{
+    font-family: Montserrat !important;
+    font-weight: 500 !important;
+}
+.montserrat400{
+    font-family: Montserrat !important;
+    font-weight: 400 !important;
+}
+.harriet{
+    font-family: Harriet !important;
+    font-weight: 700 !important;
+}
