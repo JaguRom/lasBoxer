@@ -37,7 +37,7 @@ font-family: Aleo; !important;
 color: #B8572C;  !important;
 }
 #logoTranspMod{
-max-width: 5.5rem !important;
+max-width: 12rem !important;
 }
 #buttonTest{
 color: black;
@@ -72,8 +72,6 @@ font-size: 1.25rem;
 
 /* Carrousel */
 .carousel-item {
-    /* position: initial; */
-    width: 85%;
     height: 85%;
 
 }
@@ -177,4 +175,14 @@ color: #B8572C;
 .harriet{
     font-family: Harriet !important;
     font-weight: 700 !important;
+}
+.headerLogo{
+    width: 15rem !important;
+}
+
+.carousel-fix{
+    object-fit: cover !important;
+    object-position: center !important;
+    height: 80vh !important;
+    overflow: hidden !important;
 }
