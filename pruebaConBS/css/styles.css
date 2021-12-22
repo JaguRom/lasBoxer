@@ -664,7 +664,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -6866,9 +6866,6 @@ textarea.form-control-lg {
   width: 75% !important;
 }
 
-.w-100 {
-  width: 100% !important;
-}
 
 .w-auto {
   width: auto !important;
@@ -11291,9 +11288,6 @@ body {
   margin-bottom: 5rem;
 }
 
-.projects-section {
-  padding: 10rem 0;
-}
 .projects-section .featured-text {
   padding: 2rem;
 }
